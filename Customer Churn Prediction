@@ -1,0 +1,12 @@
+3. Customer Churn Prediction
+
+Project Description:
+Developed a machine learning model to predict customer churn using telecom data. Identified key features driving customer churn and evaluated multiple classification models to improve prediction accuracy.
+
+Key Features:
+- Data Preprocessing: Handled missing values, encoded categorical variables, normalized data.
+- Model Building: Logistic Regression, Decision Tree, Random Forest, and model evaluation.
+- Visualization: Feature importance, confusion matrix, and ROC curve.
+
+Tech Stack:
+Python (Pandas, Scikit-learn), Data Visualization (Matplotlib, Seaborn)
